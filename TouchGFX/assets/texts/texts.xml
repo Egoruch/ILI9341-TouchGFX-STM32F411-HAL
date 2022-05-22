@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.19.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_59LQ" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">ILI9341-TouchGFX-STM32F411-HAL</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZGH0" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">GitHub.Com</Translation>
+      </Text>
+      <Text Id="__SingleUse_22NR" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">text example!</Translation>
+      </Text>
+      <Text Id="__SingleUse_LDB7" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Here is...</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="ariblk.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="phagspab.ttf" Size="49" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="ariali.ttf" Size="16" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

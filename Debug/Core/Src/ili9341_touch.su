@@ -1,0 +1,5 @@
+../Core/Src/ili9341_touch.c:9:13:ILI9341_TouchSelect	8	static
+../Core/Src/ili9341_touch.c:13:6:ILI9341_TouchUnselect	8	static
+../Core/Src/ili9341_touch.c:17:6:ILI9341_TouchPressed	8	static
+../Core/Src/ili9341_touch.c:21:6:ILI9341_TouchGetCoordinates	56	static
+../Core/Src/ili9341_touch.c:72:6:ILI9341_TouchRangeCheck	16	static

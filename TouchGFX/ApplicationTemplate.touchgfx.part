@@ -1,0 +1,27 @@
+
+{
+  "Application": {
+    "Name": "ILI9341-TouchGFX-STM32F411-HAL",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "AvailableColorDepths": [ 16 ],
+    "AvailableLCDs":
+    {
+      "16": "LCD16bpp"
+    },
+    "AvailableResolutions": [
+      {
+        "Width": 320,
+        "Height": 240
+      }
+    ],
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "Family": "STM32F4",
+    "SubFamily": "STM32F411",
+    "Platform": "m4",
+    "ProjectFile": "../ILI9341-TouchGFX-STM32F411-HAL.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [
+    ]
+  },
+  "Version": "4.19.1"
+}
